@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Are puma shoes with rating 3.5 available?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, Puma shoes with a rating of 3.5 are not available."
+  }
+]
