@@ -88,11 +88,10 @@ User → Streamlit → Router → FAQ Chain ⇢ ChromaDB
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/1.png" width="350"/> &nbsp;
-  <img src="screenshots/2.png" width="350"/> &nbsp;
- <img src="screenshots/3.png" width="350"/>
-</p>
+
+<img src="screenshots/1.png" width="350"/>
+<img src="screenshots/2.png" width="350"/>
+<img src="screenshots/3.png" width="350"/>
 
 
 ## 📚 Dependencies
